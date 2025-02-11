@@ -1,0 +1,24 @@
+#Made my first ever code blocks in C++. Ive shown interest in the language due to its compatibility with both web development and game creation.
+#Its the most complex, wich explained why it took me 2 hours to understand this code wich i could have made in Python without breaking a sweat.
+#Ive fully memorized it, and all its components now and hopefully i can learn C++.
+
+#include <iostream>
+using namespace std;
+
+int Multiply(int a, int b)
+{
+	return a * b;
+}
+
+void MultiplyFactor(int a, int b)
+{
+	int result = (a, b);
+	std::cout << result << std::endl;
+}
+
+int main()
+{
+	MultiplyFactor(3, 6);
+	MultiplyFactor(5, 7);
+    MultiplyFactor(8, 5);
+}
