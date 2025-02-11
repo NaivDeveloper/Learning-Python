@@ -1,5 +1,2 @@
-# Learning-Python
-I am 15. I have just started learning Python Online today and have made decent progress. Ive learnt about variables, values, booleans, floats, strings, lists, intergers, inputs etc.
-Im planning to post all of my progress and mini projects on this respiratory.
-I started learning HTML and CSS first and got a good grasp on it, before quickly switching to python due to it being more versatile and easy to understand. 
-If you still see me posting 2 years from now, my goal of mastering Python will be complete and i will be prepared for College.
+# Learning how to code.
+I am 15. Recently ive started studying Youtube Videos on Python and CSS. I am more enversed in Python due to its simplicity, but i have taken a interest in C++ due to its compatibility with not only web development, but also firmware. Ive started learning on the 7th of feburary and today is the 11th of feburary. I will post every project i make (small or large) so that in the future, universities or employers can see the progress ive made, and how long it took me. I hope that i will learn these languages quickly so future employers can see my skills and mindset. I will primarily focus on C++ and take Python on the side. 
