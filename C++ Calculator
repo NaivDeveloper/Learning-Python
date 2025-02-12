@@ -1,0 +1,35 @@
+// First ever project on C++. A simple calculator i built after learning how to do inputs and outputs. I mean, we all start somewhere right?
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	double number1, number2;
+	char op;
+
+	cout << "Enter the first number: ";
+	cin >> number1;
+
+	cout << "Enter the operator: ";
+	cin >> op;
+
+	cout << "Enter the second number: ";
+	cin >> number2;
+
+	if(op == '+')
+		cout << number1 + number2 << endl;
+
+	else if (op == '-')
+		cout << number1 - number2 << endl;
+
+	else if (op == '*')
+		cout << number1 * number2 << endl;
+
+	else if (op == '/')
+		cout << number1 / number2 << endl;
+
+	else
+		cout << "Invalid operator" << endl;
+
+}
